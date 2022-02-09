@@ -39,7 +39,7 @@
 ## 사용 툴&기술
 ```
 툴 : Jupyter Notebook
-기술 : Csv, Pandas, Matplotlib, Numpy, Platform
+기술 : Pandas, Matplotlib, Numpy, Platform
 ```
 
 ## 결과
