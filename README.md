@@ -43,14 +43,14 @@
 ```
 
 ## 결과
-- **<강수량에 따른 평균 교통사고 수> 그래프**
+- **<강수량과 교통사고의 연관성> 그래프**
 <p align="left">
-<img src="https://user-images.githubusercontent.com/83000975/151675386-9968d6ae-822b-41d6-bc4e-7fe1dbf74a94.jpg" weight=700 height=700>
+<img src="https://user-images.githubusercontent.com/83000975/153238286-422c60ff-bb04-4a26-aa74-d67bd6bf681a.png" weight=700 height=700>
 </p>
 
 - **<평균 사망자 수> 확대 그래프**
 <p align="left">
-<img src="https://user-images.githubusercontent.com/83000975/151675399-b629d444-40c7-4841-9e16-649769c2a874.png" weight=700 height=700>
+<img src="https://user-images.githubusercontent.com/83000975/153238360-5715851c-d0fd-4f56-9f57-9df7114fc133.png" weight=700 height=700>
 </p>
 
 > 예상했던 대로 비, 눈이 오는 날이 맑은 날보다 교통사고가 더 많이 발생했다는 것을 확인할 수 있었습니다.   
